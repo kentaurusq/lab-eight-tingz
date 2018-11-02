@@ -1,0 +1,43 @@
+body{
+background-color:white;
+}
+
+.border1{
+	margin-top:10px;
+	border-style:dotted;
+	border-color:black;
+	padding:200px 150px 10px 150px;
+}
+
+.content{
+	text-align:center;
+}
+
+.text{
+	text-align:center;
+	font-size:9px;
+	color:green;
+}
+
+.orangetext{
+font-size:30px;
+color:orange;
+
+}
+
+.textup{
+	color:red;
+	font-size:26px;
+	
+}
+
+.smalltext{
+	text-align:right;
+	color:purple;
+	font-size:9px;
+}
+
+.yellowtext{
+	color:yellow;
+	
+}

@@ -1,0 +1,39 @@
+body{
+	color:red;
+	background-color:blue;
+}
+
+.border1{
+	margin: 10%20%10%20%;
+	border-style:solid;
+	border-color:black;
+	border-width:5px;
+	padding-bottom:0px;
+	padding-top:10px;
+	padding-left:10px;
+	padding-right:50px;
+}
+
+.border2{
+	margin-top:2%;
+	margin-left:2%;
+	margin-bottom:3%;
+	border-style:dashed;
+	border-color:green;
+	padding-bottom:10px;
+	padding-top:10px;
+}
+
+.image{
+	height:250px;
+	width:50;
+}
+
+.border3{
+	margin-right:81%;
+	border-style:dashed;
+	border-color:white;
+	border-width:2px;
+	padding: 20px 20px 20px 20px;
+
+}

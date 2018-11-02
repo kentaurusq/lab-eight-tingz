@@ -1,0 +1,19 @@
+#wrapper{
+	background-color:green
+}
+
+.border1{
+	border-style:dotted;
+	padding:15px 15px 15px 15px;
+}
+
+.redtext{
+	color:red;
+}
+
+.greentext{
+	color:#4C986D;
+}
+.purpletext{
+	color:#764B8E;
+}
